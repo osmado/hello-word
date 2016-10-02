@@ -1,4 +1,6 @@
 # hello-word
-Frist step
-
+First step
+Second step
 Hello world tutorial
+
+Final step
